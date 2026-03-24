@@ -53,4 +53,4 @@
 
 ## 🔭 Портфоліо 
 
-- [HR Analytics](https://github.com/viktoriia-hrabar/hr-analytics) — аналіз тенденцій відтоку серед працівників певної компанії (_Python, мат. статистика, Tableau_)
+- [HR Analytics](https://github.com/viktoriia-hrabar/hr-analytics) — вказівниковий аналіз тенденцій та причин відтоку серед працівників певної компанії (_Python, мат. статистика, Tableau_)
