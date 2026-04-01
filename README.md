@@ -21,7 +21,7 @@
 ## 🔭 Портфоліо 
 
 - [HR Analytics](https://github.com/viktoriia-hrabar/hr-analytics) — аналіз тенденцій та причин відтоку серед працівників певної компанії. Розробка системи, яка визначає працівників у зоні ризику та надає рекомендації (_Python, мат. статистика, Tableau_)
-- [Uber Drives](https://github.com/viktoriia-hrabar/uber-drives) — описовий аналіз поведінки клієнтів сервісу Uber (_Google Sheets_)
+- [Uber Drives](https://github.com/viktoriia-hrabar/uber-drives) — описовий аналіз поведінки клієнтів сервісу Uber. Включає використання різноманітних технік очистки та форматування даних (_Google Sheets_)
 
 ## 🛠️ Технічні вміння
 
